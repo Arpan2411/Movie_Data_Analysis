@@ -34,10 +34,10 @@ The dataset contains information about Bollywood movies including attributes lik
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/movie-data-analysis.git
+   git clone https://github.com/Arpan2411/Movie_Data_Analysis.git
 
 2. open the ipynb file in google colab or install jupyter notebook in your machine
 
-3. Upload the dataset
+3. Upload the dataset into colab / Jupyter
 
 4. Run the code sections
